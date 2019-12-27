@@ -33,3 +33,7 @@ MISRAC/Kernel Coding style compliant.
 ## Not Impressed, Yet ?
 Guess what, You get all of this at the price of 9.9 USD only.
 ![Img2](assets/06.jpg)
+
+## Join us on 
+1. [Github](https://github.com/shunyaos)
+2. [Gitlab](https://gitlab.com/shunyaos)
