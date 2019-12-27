@@ -32,7 +32,7 @@ MISRAC/Kernel Coding style compliant.
 
 ## Not Impressed, Yet ?
 Guess what, You get all of this runs on a 9.9 USD SBC.
-![Img2](assets/06.jpg)
+![Img2](assets/07.jpg)
 
 ## Fllow us here for More Updates  
 1. [Github](https://github.com/shunyaos) ![GitHub followers](https://img.shields.io/github/followers/shunyaos?label=Follow&style=social)
