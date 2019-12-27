@@ -36,4 +36,4 @@ Guess what, You get all of this at the price of 9.9 USD only.
 
 ## Join us on 
 1. [Github](https://github.com/shunyaos)
-2. [Gitlab](https://gitlab.com/shunyaos)
+2. [Gitlab](https://gitlab.com/shunyaos) [More followers here!!]
