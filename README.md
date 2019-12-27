@@ -31,7 +31,7 @@ Each block of code written with ARMv8 in mind.
 MISRAC/Kernel Coding style compliant.
 
 ## Not Impressed, Yet ?
-Guess what, You get all of this at the price of 9.9 USD only.
+Guess what, You get all of this runs on a 9.9 USD SBC.
 ![Img2](assets/06.jpg)
 
 ## Fllow us here for More Updates  
