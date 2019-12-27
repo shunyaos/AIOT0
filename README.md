@@ -15,3 +15,17 @@ Excellent job for 2012, 7 years ago this was a very needed solution for **makers
 3. Less than 5 lines of Code to integrate any AI or IoT function
 
 ![Img2](assets/02.jpg)
+
+## AI 
+![Img2](assets/03.jpg)
+
+## IoT
+![Img2](assets/04.jpg)
+
+## Connectivity 
+
+![Img2](assets/05.jpg)
+
+### Optimized for ARMv8 
+Each block of code written with ARMv8 in mind. 
+MISRAC/Kernel Coding style compliant.
